@@ -1,0 +1,36 @@
+.App-task {
+	width: 100%;
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	font-size: 25px;
+	text-align: center;
+	margin: 20px 0px;
+	font-family: Roboto, sans-serif;
+	color: #1b1b32;
+}
+.freecodecamp-logo {
+	width: 400px;
+	height: 50;
+	align-items: center;
+	justify-content: center;
+}
+/*Task List*/
+.task-list-principal {
+	width: 600px;
+	min-height: 500px;
+	background-color: rgba(255, 254, 254, 0.866);
+	box-shadow: 4px 1px 1px 4px rgba(255, 255, 255, 0.866);
+	padding: 25px;
+	margin: 10px;
+	border-radius: 26px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
